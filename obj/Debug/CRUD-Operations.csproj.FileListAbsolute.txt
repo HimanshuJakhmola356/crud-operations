@@ -1,0 +1,11 @@
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\bin\Debug\CRUD-Operations.exe.config
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\bin\Debug\CRUD-Operations.exe
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\bin\Debug\CRUD-Operations.pdb
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.csproj.AssemblyReference.cache
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.csproj.SuggestedBindingRedirects.cache
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD_Operations.Form1.resources
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD_Operations.Properties.Resources.resources
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.csproj.GenerateResource.cache
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.csproj.CoreCompileInputs.cache
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.exe
+C:\Users\dcs\source\repos\CRUD-Operations\CRUD-Operations\obj\Debug\CRUD-Operations.pdb
